@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"auto-save",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Django",
+		"Django Starter",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"LiveReload",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Theme - Flatland",
+		"Theme - Soda SolarizedDark"
+	]
+}
