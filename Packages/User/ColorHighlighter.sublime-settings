@@ -1,8 +1,4 @@
 {
-	"experimental":
-	{
-		"asynchronosly_update_color_scheme": false
-	},
 	"search_colors_in":
 	{
 		"all_content":
@@ -12,7 +8,7 @@
 				"color_scheme":
 				{
 					"enabled": true,
-					"highlight_style": "text"
+					"highlight_style": "filled"
 				},
 				"gutter_icons":
 				{
@@ -23,7 +19,7 @@
 				{
 					"enabled": true,
 					"length": 2,
-					"style": "inline"
+					"style": "right"
 				}
 			},
 			"enabled": true
@@ -57,7 +53,7 @@
 			{
 				"color_scheme":
 				{
-					"enabled": false,
+					"enabled": true,
 					"highlight_style": "filled"
 				},
 				"gutter_icons":
@@ -67,9 +63,9 @@
 				},
 				"phantoms":
 				{
-					"enabled": true,
+					"enabled": false,
 					"length": 2,
-					"style": "below"
+					"style": "left"
 				}
 			},
 			"enabled": true
